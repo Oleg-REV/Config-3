@@ -1,0 +1,12 @@
+{
+  "comment": "Это пример комментария",
+  "const-pi": 3.14,
+  "settings": {
+    "name": "example",
+    "values": [1, 2, 3],
+    "nested": {
+      "enabled": true,
+      "timeout": 30
+    }
+  }
+}
